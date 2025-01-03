@@ -1,0 +1,9 @@
+{
+    "builds": [
+      {
+        "src": "home.php",
+        "use": "@vercel/php"
+      }
+    ]
+  }
+  
